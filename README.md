@@ -1,2 +1,1 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+Lý Ân Lai _ 2180607679
